@@ -9,7 +9,7 @@ const msg = {
   subject: 'Hello email with categories',
   html: '<p>Some email content</p>',
   categories: [
-    'transactional', 'customer', 'weekly',
+    'transactional', 'customer', 'weekly'
   ],
 };
 ```
